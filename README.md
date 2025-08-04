@@ -1,6 +1,6 @@
 # Faiq Saeed - Software Engineer Portfolio
 
-A modern, responsive portfolio website showcasing the technical skills, projects, and professional experience of Faiq Saeed - Computer Science student and Software Engineer.
+A modern, responsive portfolio website showcasing the technical skills, projects, and professional experience of Faiq Saeed - Computer Science graduate and Software Engineer.
 
 ## 🚀 Overview
 
@@ -17,9 +17,10 @@ This portfolio demonstrates expertise in full-stack development, software archit
 ### Development Tools
 - **Visual Studio Code** - Primary development environment
 - **Git & GitHub** - Version control and project hosting
-- **Microsoft SQL Server** - Database management and development
-- **CLI** - Command-line interface tools
-- **Canva** - Design and visual content creation
+- **Docker** - Containerization for deployment
+- **AWS** - Cloud infrastructure and hosting
+- **npm** - Package management
+- **Jira** - Project management and collaboration
 
 ## 📁 Project Structure
 
@@ -34,7 +35,7 @@ portfolio/
 └── assets/             # Static assets directory
     ├── faiq-profile.jpg # Professional headshot
     ├── faiq-about.jpg   # About section image
-    └── faiq-saeed-resume.pdf # Professional resume
+    └── faiq-resume.pdf  # Professional resume (to be added)
 ```
 
 ## 🎨 Design System
@@ -162,7 +163,7 @@ The contact form is configured for multiple integration options:
 1. **Projects**: Add/remove project cards in HTML
 2. **Skills**: Update skill cards and progress bars
 3. **Tools**: Modify development tools section
-4. **Resume**: Add your resume as `assets/faiq-saeed-resume.pdf`
+4. **Resume**: Add your resume as `assets/faiq-resume.pdf`
 
 ## 🔒 Security Considerations
 
@@ -190,14 +191,3 @@ This is a personal portfolio template. Feel free to:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
-
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-- **Portfolio**: [Your Portfolio URL]
-
----
-
-**Built with ❤️ by Faiq Saeed**
