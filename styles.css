@@ -73,6 +73,7 @@ body {
   top: 0;
   width: 100%;
   background: rgba(10, 10, 10, 0.95);
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   z-index: 1000;
   transition: var(--transition-medium);
@@ -443,8 +444,10 @@ section { padding: 100px 0; }
 
 .tools-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .tool-card {
@@ -831,8 +834,9 @@ section { padding: 100px 0; }
   .profile-image:hover { transform: none; }
 
   .tools-grid {
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 0.8rem;
+    max-width: none;
   }
   
   .tool-card { padding: 0.6rem; }
