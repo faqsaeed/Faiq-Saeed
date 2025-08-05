@@ -862,3 +862,33 @@ section { padding: 100px 0; }
 
   .hero-profile-image:hover { transform: none; }
 }
+
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .nav-menu {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .nav-menu li {
+    word-break: break-word;
+  }
+
+  .about-image {
+    order: -1;
+  }
+
+  .contact-form {
+    order: -1;
+  }
+
+  .scroll-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+  }
+}
