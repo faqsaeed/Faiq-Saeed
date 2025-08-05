@@ -2,6 +2,14 @@
 
 A modern, responsive portfolio website showcasing the technical skills, projects, and professional experience of Faiq Saeed - Computer Science graduate and Software Engineer.
 
+---
+
+## 🌐 Live Website
+
+**[Visit Portfolio Live](https://faiq-saeed.vercel.app)**
+
+---
+
 ## 🚀 Overview
 
 This portfolio demonstrates expertise in full-stack development, software architecture, and computer science fundamentals. Built with modern web technologies and optimized for performance, accessibility, and SEO.
@@ -31,7 +39,6 @@ portfolio/
 ├── script.js           # JavaScript functionality and interactions
 ├── README.md           # Project documentation
 ├── robots.txt          # SEO configuration
-├── sitemap.xml         # Search engine sitemap
 └── assets/             # Static assets directory
     ├── faiq-profile.jpg # Professional headshot
     ├── faiq-about.jpg   # About section image
